@@ -49,5 +49,12 @@ b. Open Project using intellj
 > During backend build process it will create final application with frontend.
 > After Production Deployment no need to run frontend separately.    
 
+#Contributers
 
 
+
+Chamikara Samarasekara
+
+|![alt text](https://media.licdn.com/dms/image/C5103AQE0uW7rfqd1rQ/profile-displayphoto-shrink_200_200/0?e=1577318400&v=beta&t=loqxZ-HpALW7zpWwL_Nl-aCrT4H9n3SANUZa2Cb8J_c "Chamikara Samarasekara")   |  ![alt text](https://media.licdn.com/dms/image/C5103AQHrroUZDDAUGg/profile-displayphoto-shrink_200_200/0?e=1577318400&v=beta&t=egTXJneusLCBj5Wyr1ikQpEahAzqIh7NvLQUpbnecSk "Sandaru Kalapuge")  |
+|---|---|
+|  Chamikara Samarasekara | Sandaru Kalapuge  |
