@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="frontend" />
+        <module name="vrsfrontend" />
+        <module name="vrs-backend" />
+        <module name="vrs-frontend" />
+        <module name="backend" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="vehicle_rental_system" target="1.8" />
+      <module name="vrs-backend" target="1.8" />
+      <module name="vrs-frontend" target="1.8" />
+    </bytecodeTargetLevel>
+  </component>
+  <component name="JavacSettings">
+    <option name="ADDITIONAL_OPTIONS_OVERRIDE">
+      <module name="backend" options="-parameters" />
+      <module name="frontend" options="-parameters" />
+      <module name="vehicle_rental_system" options="-parameters" />
+      <module name="vrl-cloud-application" options="-parameters" />
+      <module name="vrs-backend" options="-parameters" />
+      <module name="vrs-frontend" options="-parameters" />
+      <module name="vrsfrontend" options="-parameters" />
+    </option>
+  </component>
+</project>
