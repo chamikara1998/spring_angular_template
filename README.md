@@ -1,15 +1,12 @@
 ## Angular 8 + Spring Boot Multi Model Maven Template
 
 <p align="center">  
-  <a href="https://travis-ci.org/yohangz/packer-cli">
+  <a href="#">
     <img src="https://travis-ci.org/yohangz/packer-cli.svg?branch=master" alt="travis build" height="18">
   </a>
-  <a href="https://github.com/yohangz/packer-cli/blob/master/LICENSE">
+  <a href="https://github.com/chamikara1998/spring_angular_template/blob/master/LICENSE">
     <img src="https://img.shields.io/badge/license-MIT-blue.svg?style=flat" alt="license" height="18">
   </a>  
-  <a href="https://badge.fury.io/js/packer-cli">
-    <img src="https://badge.fury.io/js/packer-cli.svg" alt="npm version" height="18">
-  </a>
 </p>
 
 > Spring angular template is a lightweight, feature rich template to create full stack applications using spring and angular.
