@@ -17,9 +17,9 @@ Angular 8 + Spring Boot Multi Model Maven Template
 > It support all modern style, unit tests.
 
 ## :bulb: Features
-[![Angular](https://i.ibb.co/MSHDQKf/ng.png)](https://angular.io/)
-[![Spring](https://i.ibb.co/ZHJB0wZ/spring.jpg)](https://spring.io/)
-[![Maven](https://i.ibb.co/0F3Zj9P/maven.png)](https://maven.apache.org/)
+[![Angular](https://i.ibb.co/MSHDQKf/ng.png =80x80)](https://angular.io/)
+[![Spring](https://i.ibb.co/ZHJB0wZ/spring.jpg =80x80)](https://spring.io/)
+[![Maven](https://i.ibb.co/0F3Zj9P/maven.png =80x80)](https://maven.apache.org/)
 
 ## :open_file_folder: Sub Modules
 
