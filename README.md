@@ -1,8 +1,6 @@
 Angular 8 + Spring Boot Multi Model Maven Template
 
-<p align="center">
-  <img src="https://image.ibb.co/kezsYp/packer.png" alt="Packer CLI"/>
-  
+<p align="center">  
   <a href="https://travis-ci.org/yohangz/packer-cli">
     <img src="https://travis-ci.org/yohangz/packer-cli.svg?branch=master" alt="travis build" height="18">
   </a>
