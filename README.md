@@ -1,4 +1,4 @@
-Angular 8 + Spring Boot Multi Model Maven Template
+## Angular 8 + Spring Boot Multi Model Maven Template
 
 <p align="center">  
   <a href="https://travis-ci.org/yohangz/packer-cli">
@@ -17,9 +17,9 @@ Angular 8 + Spring Boot Multi Model Maven Template
 > It support all modern style, unit tests.
 
 ## :bulb: Features
-[![Angular](https://i.ibb.co/MSHDQKf/ng.png =80x80)](https://angular.io/)
-[![Spring](https://i.ibb.co/ZHJB0wZ/spring.jpg =80x80)](https://spring.io/)
-[![Maven](https://i.ibb.co/0F3Zj9P/maven.png =80x80)](https://maven.apache.org/)
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/Angular_full_color_logo.svg/768px-Angular_full_color_logo.svg.png" width="100" height="100" alt="Angular">
+<img src="https://spring.io/img/homepage/icon-spring-cloud.svg" width="100" height="100" alt="Spring">
+<img src="https://seeklogo.com/images/A/apache-logo-89257496F9-seeklogo.com.png" width="100" height="100" alt="Maven">
 
 ## :open_file_folder: Sub Modules
 
