@@ -17,9 +17,11 @@
 > It support all modern style, unit tests.
 
 ## :bulb: Features
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/Angular_full_color_logo.svg/768px-Angular_full_color_logo.svg.png" width="100" height="100" alt="Angular">
-<img src="https://spring.io/img/homepage/icon-spring-cloud.svg" width="100" height="100" alt="Spring">
-<img src="https://seeklogo.com/images/A/apache-logo-89257496F9-seeklogo.com.png" width="100" height="100" alt="Maven">
+<p>  
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/Angular_full_color_logo.svg/768px-      Angular_full_color_logo.svg.png" width="100" height="100" alt="Angular">
+  <img src="https://spring.io/img/homepage/icon-spring-cloud.svg" width="100" height="100" alt="Spring">
+  <img src="https://seeklogo.com/images/A/apache-logo-89257496F9-seeklogo.com.png" width="100" height="100" alt="Maven">
+</p>
 
 ## :open_file_folder: Sub Modules
 
